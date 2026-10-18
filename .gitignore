@@ -1,0 +1,17 @@
+# React
+frontend/node_modules/
+frontend/build/
+
+# Python
+backend/venv/
+backend/__pycache__/
+backend/**/*.pyc
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+backend/.env
+backend/.env.*
+!backend/.env.example
+backend/venv/
